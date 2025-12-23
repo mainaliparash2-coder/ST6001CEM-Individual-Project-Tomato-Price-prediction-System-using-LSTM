@@ -34,8 +34,9 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/suyogkad/freshForecast.git
-   cd freshForecast
+   git clone https://github.com/mainaliparash2-coder/ST6001CEM-Individual-Project-Tomato-Price-prediction-System-using-LSTM.git
+   cd .\ktm-tomato-price-predictor-main\
+
 
 2. **Install Requirements**
 
